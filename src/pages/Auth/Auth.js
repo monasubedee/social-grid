@@ -1,4 +1,4 @@
-import { Typography,Grid, Paper, Button } from '@mui/material';
+import { Typography,Grid, Button } from '@mui/material';
 import './Auth.css';
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
