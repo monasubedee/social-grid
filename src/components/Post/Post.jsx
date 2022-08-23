@@ -1,6 +1,5 @@
-import { Favorite, FavoriteOutlined, Share, ThumbUp } from '@mui/icons-material';
+import { Favorite, ThumbUp } from '@mui/icons-material';
 import { Avatar, Card, CardActions, CardContent, CardHeader, CardMedia, Divider, IconButton, Typography } from '@mui/material';
-import { g } from '@mui/material/colors';
 import { Box } from '@mui/system';
 import React from 'react';
 

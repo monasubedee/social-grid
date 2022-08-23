@@ -1,6 +1,6 @@
-import { AppBar, Badge, IconButton, Toolbar, Typography,Grid, Menu, MenuItem, List, ListItem, ListItemButton, ListItemIcon, ListItemText, Divider, Drawer } from '@mui/material';
+import { AppBar, Badge, IconButton, Toolbar, Typography,Grid, Menu, MenuItem, Drawer } from '@mui/material';
 import React, { useState } from 'react';
-import { AccountCircle, MailOutline, More, MoreVert, Notifications, Search } from '@mui/icons-material';
+import { AccountCircle, MoreVert, Notifications, Search } from '@mui/icons-material';
 import { Box } from '@mui/system';
 import { Link } from 'react-router-dom';
 import  './Navbar.css';
