@@ -133,7 +133,7 @@ const Navbar = (props) => {
                    </IconButton>
                    </Link> 
                    </Box>
-                   <Box className="moreIcon" sx={{display:{xs:'block',md:'none'},ml:{xs:'30px'}}}>
+                   <Box className="moreIcon" sx={{display:{xs:'block',md:'none'}}}>
                        <IconButton onClick={handleMenuOpen} size="large" color="inherit">
                           <MoreVert />
                        </IconButton>

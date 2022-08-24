@@ -30,9 +30,9 @@
   }
 }
 @media (max-width: 480px) {
-  .moreIcon {
+  /* .moreIcon {
     margin-left: 10px;
-  }
+  } */
   .searchInput{
     width: 120px;
     font-size: 15px;
